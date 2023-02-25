@@ -1,0 +1,8 @@
+[
+    {
+        "hostName": "localhost",
+        "userName": "root",
+        "userPasword": "",
+        "dbName": "laravel"
+    }
+]
